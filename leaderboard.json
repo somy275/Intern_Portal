@@ -1,0 +1,113 @@
+[
+  {
+    "rank": 1,
+    "name": "Sarah Mitchell",
+    "avatar": "SM",
+    "donations": 28500,
+    "referrals": 45,
+    "level": "Platinum",
+    "trend": "up",
+    "streak": 12,
+    "badge": "🏆"
+  },
+  {
+    "rank": 2,
+    "name": "Michael Chen",
+    "avatar": "MC",
+    "donations": 24300,
+    "referrals": 38,
+    "level": "Gold",
+    "trend": "up",
+    "streak": 8,
+    "badge": "🥈"
+  },
+  {
+    "rank": 3,
+    "name": "Emma Rodriguez",
+    "avatar": "ER",
+    "donations": 21800,
+    "referrals": 32,
+    "level": "Gold",
+    "trend": "same",
+    "streak": 15,
+    "badge": "🥉"
+  },
+  {
+    "rank": 4,
+    "name": "David Park",
+    "avatar": "DP",
+    "donations": 19200,
+    "referrals": 29,
+    "level": "Gold",
+    "trend": "up",
+    "streak": 5,
+    "badge": "⭐"
+  },
+  {
+    "rank": 5,
+    "name": "Alex Johnson",
+    "avatar": "AJ",
+    "donations": 15750,
+    "referrals": 23,
+    "level": "Gold",
+    "trend": "up",
+    "streak": 7,
+    "badge": "🔥",
+    "isCurrentUser": true
+  },
+  {
+    "rank": 6,
+    "name": "Lisa Wang",
+    "avatar": "LW",
+    "donations": 14200,
+    "referrals": 21,
+    "level": "Silver",
+    "trend": "down",
+    "streak": 3,
+    "badge": "💎"
+  },
+  {
+    "rank": 7,
+    "name": "James Wilson",
+    "avatar": "JW",
+    "donations": 12800,
+    "referrals": 18,
+    "level": "Silver",
+    "trend": "up",
+    "streak": 4,
+    "badge": "🌟"
+  },
+  {
+    "rank": 8,
+    "name": "Anna Thompson",
+    "avatar": "AT",
+    "donations": 11500,
+    "referrals": 16,
+    "level": "Silver",
+    "trend": "same",
+    "streak": 6,
+    "badge": "⚡"
+  },
+  {
+    "rank": 9,
+    "name": "Robert Kumar",
+    "avatar": "RK",
+    "donations": 10800,
+    "referrals": 14,
+    "level": "Silver",
+    "trend": "up",
+    "streak": 2,
+    "badge": "🚀"
+  },
+  {
+    "rank": 10,
+    "name": "Jennifer Lee",
+    "avatar": "JL",
+    "donations": 9500,
+    "referrals": 12,
+    "level": "Bronze",
+    "trend": "same",
+    "streak": 8,
+    "badge": "💫"
+  }
+]

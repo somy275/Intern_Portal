@@ -1,0 +1,30 @@
+[
+    {
+      "type": "donation",
+      "amount": 500,
+      "date": "2025-07-30"
+    },
+    {
+      "type": "referral",
+      "name": "Anjali Verma",
+      "amount": 200,
+      "date": "2025-07-29"
+    },
+    {
+      "type": "achievement",
+      "achievement": "Unlocked Bronze Badge 🥉",
+      "date": "2025-07-28"
+    },
+    {
+      "type": "donation",
+      "amount": 1000,
+      "date": "2025-07-27"
+    },
+    {
+      "type": "referral",
+      "name": "Ravi Singh",
+      "amount": 200,
+      "date": "2025-07-26"
+    }
+  ]
+  
